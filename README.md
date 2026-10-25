@@ -1,6 +1,6 @@
 # Plugins Boss — downloads
 
-Plugins Boss is a Windows app that keeps track of your audio plugins: what's installed, which copies your DAWs (Studio Pro, Cakewalk Sonar) actually load, duplicates and old versions, vendor updates, and a safe quarantine with undo.
+Plugins Boss, by [Musik-Matters LLC](https://musik-matters.com/software/plugins-boss/), is a Windows app that keeps track of your audio plugins: what's installed, which copies your DAWs (Studio Pro, Cakewalk Sonar) actually load, duplicates and old versions, vendor updates, and a safe quarantine with undo.
 
 ## Download
 
