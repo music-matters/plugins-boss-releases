@@ -4,7 +4,7 @@ Plugins Boss is a Windows app that keeps track of your audio plugins: what's ins
 
 ## Download
 
-Get **`PluginsBoss-Setup-<version>.exe`** from the [latest release](../../releases/latest) and run it (Windows 10/11, 64-bit, no admin rights needed).
+Get **`PluginsBoss-<version>-windows-x64-setup.exe`** from the [latest release](../../releases/latest) and run it (Windows 10/11, 64-bit, no admin rights needed).
 
 - Windows SmartScreen may say "Windows protected your PC" because the installer isn't code-signed yet: click **More info › Run anyway**.
 - **Updating:** close Plugins Boss and run the new installer. It updates in place and keeps your scan results and settings. Plugins Boss shows a banner when a new version is out.
